@@ -54,4 +54,4 @@ The sidebar includes an "+ Add" button that opens a modal dialog. Here, you can 
 Join and leave events are displayed as centered system messages in the chat, such as "Alice joined" or "Bob left". These are visually distinct from regular messages and help users keep track of who is in the room.
 
 OUTPUT:-
-<img width="1905" height="1077" alt="Image" src="https://github.com/user-attachments/assets/89af6206-f758-4021-acb8-0c33658140fc" />
+<img width="1589" height="838" alt="Image" src="https://github.com/user-attachments/assets/f89cf7f2-b45e-4946-bc30-c6b846ccad53" />
